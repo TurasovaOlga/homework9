@@ -1,0 +1,15 @@
+/home/oem/Desktop/homework9/bin/Debug/net6.0/homework9
+/home/oem/Desktop/homework9/bin/Debug/net6.0/homework9.deps.json
+/home/oem/Desktop/homework9/bin/Debug/net6.0/homework9.runtimeconfig.json
+/home/oem/Desktop/homework9/bin/Debug/net6.0/homework9.dll
+/home/oem/Desktop/homework9/bin/Debug/net6.0/ref/homework9.dll
+/home/oem/Desktop/homework9/bin/Debug/net6.0/homework9.pdb
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.csproj.AssemblyReference.cache
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.AssemblyInfoInputs.cache
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.AssemblyInfo.cs
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.csproj.CoreCompileInputs.cache
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.dll
+/home/oem/Desktop/homework9/obj/Debug/net6.0/ref/homework9.dll
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.pdb
+/home/oem/Desktop/homework9/obj/Debug/net6.0/homework9.genruntimeconfig.cache
